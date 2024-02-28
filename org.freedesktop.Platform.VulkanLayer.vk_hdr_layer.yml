@@ -1,4 +1,4 @@
-app-id: com.github.vk_hdr_layer
+app-id: org.freedesktop.Platform.VulkanLayer.vk_hdr_layer
 runtime: org.freedesktop.Platform
 runtime-version: '23.08'
 sdk: org.freedesktop.Sdk
