@@ -1,1 +1,1 @@
-# com.github.vk_hdr_layer
+# org.freedesktop.Platform.VulkanLayer.vk_hdr_layer
